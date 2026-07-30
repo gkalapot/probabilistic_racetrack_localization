@@ -37,7 +37,7 @@ My main contributions were implementing and extending the probabilistic modeling
 - `probability.py` - probability/Bayesian-network helper code
 
 ### Data Files
-A `data/` folder is needed for the GUI and simulator to run. The data folder should contain the racetrack assets, saved lap data, and Bayesian-network data files.
+The `data/` folder is required but omitted because it was course-provided.
 
 ## Requirements
 
